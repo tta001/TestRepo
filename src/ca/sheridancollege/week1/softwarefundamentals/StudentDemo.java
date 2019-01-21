@@ -49,7 +49,7 @@ public class StudentDemo
     public String getName() {
         return name;
     }
-
+// hey man just wanted to see if this works or nah
     /**
      * A method to set the student's name
      * @param givenName the name to set
